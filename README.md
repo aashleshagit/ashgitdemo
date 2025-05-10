@@ -1,2 +1,3 @@
-# ashgitdemo
-this is my first git repository
+# Ashgitdemo
+This is my first git repository.
+Author-Aashlesha Vijay Sawane.
